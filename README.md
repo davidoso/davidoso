@@ -5,6 +5,8 @@
 * **JS and C# Web developer**
 * **Web scraper**
 
+I'm a keen and meticulous web-and-desktop developer. I enjoy working out, listening to hard rock and metal, and watching sports.
+
 This is my public profile to keep my Upwork scripts and gists, and also my college/internship projects.
 
 I keep my Expo + React Native and C#/VB/ASP.NET repos private.
@@ -16,10 +18,10 @@ I keep my Expo + React Native and C#/VB/ASP.NET repos private.
 
 
 ### I work with:
-1. PHP (CodeIgniter)
-2. HTML5 + CSS3 + JS
-3. Visual C# and VB
-4. Expo + React Native Android app development
+1. Visual C# and VB
+2. Expo + React Native Android app development
+3. PHP (CodeIgniter)
+4. HTML5 + CSS3 + JS, and jQuery
 
 
 ### I'm quite good at the following tasks:
