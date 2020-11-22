@@ -18,10 +18,10 @@ I keep my Expo + React Native and C#/VB/ASP.NET repos private.
 
 
 ### I work with:
-1. Visual C# and VB
-2. Expo + React Native Android app development
-3. PHP (CodeIgniter)
-4. HTML5 + CSS3 + JS, and jQuery
+1. Visual C# and VB.
+2. Expo + React Native Android app development.
+3. PHP (CodeIgniter).
+4. HTML5 + CSS3 + JS, and jQuery.
 
 
 ### I'm quite good at the following tasks:
