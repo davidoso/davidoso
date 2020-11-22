@@ -37,6 +37,5 @@ I keep my Expo + React Native and C#/VB/ASP.NET repos private.
 ... and more
 
 
->[![David Osorio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidoso&show_icons=true)
-
+>![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidoso&show_icons=true)
 >![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidoso)
